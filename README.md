@@ -9,3 +9,7 @@ The second certificate named **C++ Design Patterns: Behavioral** is very benefic
 
 ### Certificate 3:
 In the third certificate, which is **C++ Design Patterns: Creational**, I have learned that we can use different creational design patterns like **Factory Method** and **Singleton Method** to optimize the code for efficiency, accuracy, and generalization.
+# C++ Implementation of Ant Farm Simulation
+## Code documentation:
+### File named **newAntFarm.cpp**:
+File named **newAntFarm.cpp** is the actual code file in which the class of all the operations, while focusing on design patterns, are mentioned. Here is the guide to `newAntFarm.cpp` with the screenshots of outputs.
