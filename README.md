@@ -12,4 +12,4 @@ In the third certificate, which is **C++ Design Patterns: Creational**, I have l
 # C++ Implementation of Ant Farm Simulation
 ## Code documentation:
 ### File named **newAntFarm.cpp**:
-File named **newAntFarm.cpp** is the actual code file in which the class of all the operations, while focusing on design patterns, are mentioned. Here is the guide to `newAntFarm.cpp` with the screenshots of outputs.
+File named **newAntFarm.cpp** is the actual code file in which the classes of all the operations, while focusing on design patterns, are mentioned. Here is the guide to `newAntFarm.cpp` with the screenshots of outputs.
