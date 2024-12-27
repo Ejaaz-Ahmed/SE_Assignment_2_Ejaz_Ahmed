@@ -45,16 +45,21 @@ The give command gives resources to colonies of given ID.
 
 ## Colonies Data:
 The data of colonies is shown.
+
 ![Colonies Data](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/6.jpg)
 
 ## Summary
+The summary command gives the current status of Colony of given ID.
 ![Summary](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/7.jpg)
 
 ## Help
+The Help command will generate the available command menu again.
 ![Help](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/8.jpg)
 
-##Tick 
+## Tick 
+Tick is basically an action whihc is performed between the colonies. For example battle, Food finding and rest etc...
 ![Help](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/9.jpg)
 
 ## Exit
+Exit command is used to exit from the program.
 ![Exit](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/10.jpg)
