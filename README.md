@@ -29,29 +29,32 @@ I have used the VScode for the implementation of this Assignment.
 
 ## Interface:
 Here is the interface for the Ant Farm Simulation and available commands which is CLI.
-![Interface](image_url_for_Interface)
+![Interface]([image_url_for_Interface](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/2.jpg))
 
 ## Species:
 The 12 species used are as following.
-![Species](image_url_for_Species)
+![Species]([image_url_for_Species](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/3.jpg))
 
 ## Spawn Command
 The spawn command spawns the colonies at the given location.
-![Spawn Command](image_url_for_Spawn_Command)
+![Spawn Command]([image_url_for_Spawn_Command](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/4.jpg))
 
 ## Give Command
 The give command gives resources to colonies of given ID.
-![Give Command](image_url_for_Give_Command)
+![Give Command]([image_url_for_Give_Command](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/5.jpg))
 
 ## Colonies Data:
 The data of colonies is shown.
-![Colonies Data](image_url_for_Colonies_Data)
+![Colonies Data]([image_url_for_Colonies_Data](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/6.jpg))
 
 ## Summary
-![Summary](image_url_for_Summary)
+![Summary]([image_url_for_Summary](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/7.jpg))
 
 ## Help
-![Help](image_url_for_Help)
+![Help]([image_url_for_Help](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/8.jpg))
+
+##Tick 
+![Help]([image_url_for_Help](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/9.jpg))
 
 ## Exit
-![Exit](image_url_for_Exit)
+![Exit]([image_url_for_Exit](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/10.jpg))
