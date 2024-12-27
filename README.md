@@ -13,3 +13,45 @@ In the third certificate, which is **C++ Design Patterns: Creational**, I have l
 ## Code documentation:
 ### File named **newAntFarm.cpp**:
 File named **newAntFarm.cpp** is the actual code file in which the classes of all the operations, while focusing on design patterns, are mentioned. Here is the guide to `newAntFarm.cpp` with the screenshots of outputs.
+In the code file, I have implemented different classes and organized the code for Meadows using various design patterns:
+- Singleton Meadow class is created for Meadows.
+- Factory method is used in AntFactory and its subclasses.
+- Decorator pattern is used for the attributes of the ants.
+- Builder pattern is used in AntFarm and its subclasses.
+
+I have specified 12 ant species based on my Roll no which ((2%6)+10)=12.
+
+The output screenshots are given below:
+
+## IDE:
+I have used the VScode for the implementation of this Assignment.
+![VScode](https://github.com/Ejaaz-Ahmed/SE_Assignment_2_Ejaz_Ahmed/blob/main/images/1.jpg)
+
+## Interface:
+Here is the interface for the Ant Farm Simulation and available commands which is CLI.
+![Interface](image_url_for_Interface)
+
+## Species:
+The 12 species used are as following.
+![Species](image_url_for_Species)
+
+## Spawn Command
+The spawn command spawns the colonies at the given location.
+![Spawn Command](image_url_for_Spawn_Command)
+
+## Give Command
+The give command gives resources to colonies of given ID.
+![Give Command](image_url_for_Give_Command)
+
+## Colonies Data:
+The data of colonies is shown.
+![Colonies Data](image_url_for_Colonies_Data)
+
+## Summary
+![Summary](image_url_for_Summary)
+
+## Help
+![Help](image_url_for_Help)
+
+## Exit
+![Exit](image_url_for_Exit)
