@@ -345,7 +345,7 @@ void displayHelp() {
               << "  give <id> <resource> <amount>   =>  Give resources to a colony\n"
               << "  tick [number]                   =>  Simulate specified number of ticks (default: 1)\n"
               << "  summary <id>                    =>  Display colony summary\n"
-              << "  Colonies data                   =>  List all colonies\n"
+              << "  Coloniesdata                    =>  List all colonies\n"
               << "  help                            =>  Display this help message\n"
               << "  exit                            =>  Exit the simulation\n";
 }
@@ -396,7 +396,7 @@ int main() {
                 } else {
                     cout << "Usage: summary <id>\n";
                 }
-            } else if (cmd == "list") {
+            } else if (cmd == "Coloniesdata") {
                 cout << "\nActive Colonies:\n";
                 for (size_t i = 0; i < meadow->getAntFarmCount(); ++i) {
                     auto farm = meadow->getAntFarm(i);
